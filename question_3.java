@@ -28,4 +28,4 @@ public static void main(String[] args) {
 
 
 }
-
+//I was not able to apply the given constraints on the code
